@@ -8,7 +8,9 @@
 
 * Python 3.x
 مكتبة Flask
+
 لتثبيتها:
+
 
   ```bash
   pip install flask
