@@ -37,7 +37,7 @@ python app.py
 أو إذا كنت تستخدم الأمر `flask run`:
 
 ```bash
-export FLASK_APP=app.py       # على لينوكس / ماك
+export FLASK_APP=app.py       # على لينكس / ماك
 set FLASK_APP=app.py          # على ويندوز
 
 flask run
